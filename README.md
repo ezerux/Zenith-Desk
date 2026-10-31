@@ -17,7 +17,8 @@ Built on top of **Zammad** and **FreePBX / Asterisk**, open-source only, no paid
 ![checks](https://img.shields.io/badge/release%20check-250%2B%20checks%20passing-1fb87a)
 ![languages](https://img.shields.io/badge/UI-English%20%7C%20Russian-5d6675)
 
-<img src="docs/screenshots/manager-overview.jpg" alt="Zenith Desk — manager overview" width="100%">
+<img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/4268dc25-c0f7-43a4-885d-919cc40e7ecf" />
+
 
 </div>
 
