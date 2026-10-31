@@ -1,7 +1,7 @@
  <div align="center">
 
 <img src="<img width="400" height="400" alt="svgviewer-png-output (2)" src="https://github.com/user-attachments/assets/1190c4b4-6a48-4279-8bcb-edfa2c896cfc" />
-" width="72" alt="Zenith Desk logo">
+
 
 # Zenith Desk
 
